@@ -81,7 +81,7 @@ Some syntax errors lack detailed messages
 
 Windows‑only
 
-**0.1.x — Alpha Series (9/28/26)
+**0.1.x — Beta Series (9/28/26)
 Highlights**
 First public preview builds
 
@@ -92,7 +92,7 @@ Early PE writer experiments
 Minimal project system
 
 **Planned for Future Releases
-Docking Layout System**
+**Docking Layout System****
 
 IntelliSense / Autocomplete
 
@@ -100,4 +100,4 @@ Lithium Language Enhancements
 
 Plugin System
 
-Cross‑platform support
+Cross‑platform support (linux and mac)
